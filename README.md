@@ -50,5 +50,5 @@ Supports three distinct institutional transfer modes:
 
 1. **Clone Repository:**
    ```bash
-   git clone [https://github.com/lunul-labs/zkshieldedpool.git](https://github.com/lunul-labs/zkshieldedpool.git)
-   cd zkshieldedpool
+   git clone [https://github.com/lunul-labs/ZKShieldedPool.git](https://github.com/lunul-labs/ZKShieldedPool.git)
+   cd ZKShieldedPool
