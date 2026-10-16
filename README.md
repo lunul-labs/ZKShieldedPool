@@ -1,1 +1,1 @@
-ZKShieldedPool (0x3356779810E610D40b86D19Da04051fb3DBeb297)
+ZKShieldedPool ()
